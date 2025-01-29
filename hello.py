@@ -6,7 +6,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, filters, CallbackContext
 
 # Bot Token from BotFather
-BOT_TOKEN = "7913160168:AAH-Zd0cXjUhhb2JufOtn1I2428ANTE2dnQ"
+BOT_TOKEN = "8112121634:AAG6RBw5ORjMtp443YhmxsR5xAfVqoT4xdE"
 
 # Admin password for /pass command
 ADMIN_PASSWORD = "IGNITE-MAN-PAPA"
